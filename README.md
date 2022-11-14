@@ -16,17 +16,17 @@ The form has a validation that automatically disables the login button when the 
 
 The disabled button due to invalid input values
 
-![Form](https://github.com/Eniola-Codes/MovTime-Movie-App/blob/main/public/Assets/Images/nav.png?raw=true)
+![Form](https://github.com/Eniola-Codes/Login-System-App-V2/blob/main/src/assets/invalid.png?raw=true)
 
 The enabled button due to valid input values
 
-![Form](https://github.com/Eniola-Codes/MovTime-Movie-App/blob/main/public/Assets/Images/nav.png?raw=true)
+![Form](https://github.com/Eniola-Codes/Login-System-App-V2/blob/main/src/assets/valid.png?raw=true)
 
 It stores the user login state in the local storage of the web browser so the user stays logged in even though the page is reloaded or the user leaves and visits the page later
 
 When user is logged in, they user can easily log out with the logout button and the state is set to log out using the useContext() hook
 
-![Log out](https://github.com/Eniola-Codes/MovTime-Movie-App/blob/main/public/Assets/Images/nav.png?raw=true)
+![Log out](https://github.com/Eniola-Codes/Login-System-App-V2/blob/main/src/assets/logoutbutton.png?raw=true)
 
 **Technologies**
 
